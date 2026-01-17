@@ -70,5 +70,5 @@ The #Western Grid has dramatically changed its  Fuel mix for electricity generat
 ---
 
 ## Related
-- [Western Grid](western-grid)
+- [Western Solar Pipeline](western-solar-pipeline)
 - [Home](./)

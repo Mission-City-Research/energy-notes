@@ -3,7 +3,7 @@
 ---
 title: Western Solar Pipeline
 
-description: future projects in the Westrn US
+description: future projects in the Western US
 
 ← [Home](./)
 
