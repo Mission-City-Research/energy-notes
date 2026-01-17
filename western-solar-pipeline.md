@@ -1,3 +1,14 @@
+
+
+---
+title: Western Solar Pipeline
+
+description: future projects in the Westrn US
+
+← [Home](./)
+
+---
+
 # Western U.S. Solar Pipeline — Future Projects (by State)
 
 _States covered: AZ, CA, CO, ID, MT, NV, NM, OR, UT, WA, WY_  
@@ -177,3 +188,10 @@ in the Western United States, organized by state.
 - **High** – Construction or executed PPA  
 - **Medium** – Permitting or advanced interconnection  
 - **Low** – Announcement or early-stage queue position
+
+
+
+## Related
+
+- [Western Grid](western-grid)
+- [Home](./)

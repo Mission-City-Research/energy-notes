@@ -1,3 +1,13 @@
+---
+
+title: Western Grid
+description: Transmission, reliability, and grid structure in the Western U.S.
+---
+
+← [Home](./)
+
+---
+
 Made up of the following states: Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon,  Utah, Washington and Wyoming
 
 The #Western Grid has dramatically changed its  Fuel mix for electricity generation over the last decade. Coal has decreased substantially  and has been  replaced by solar and wind.
@@ -55,3 +65,10 @@ The #Western Grid has dramatically changed its  Fuel mix for electricity generat
 
 #### Solar Capacity
 
+
+
+---
+
+## Related
+- [Western Grid](western-grid)
+- [Home](./)
