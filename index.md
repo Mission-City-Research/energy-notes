@@ -7,6 +7,7 @@
 Research notes on Western U.S. electricity systems.
 
 ## Pages
+- [EVs](evs/)
 - [Western Grid](western-grid/)
 
 ---
