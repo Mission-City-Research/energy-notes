@@ -86,5 +86,5 @@ The #Western Grid has dramatically changed its  Fuel mix for electricity generat
 ---
 
 ## Related
-- [Western States Electricity Profile](western-state-electricity-profiles)
+- [Western States Electricity Profile]((https://mission-city-research.github.io/energy-notes/western-grid/western-state-electricity-profiles)
 - [Home](./)
