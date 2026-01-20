@@ -1,6 +1,6 @@
 
 
-
+← [Home](./)
 
 # Arizona Electricity Profile 2024
 
@@ -284,3 +284,10 @@ One example of this is a portion of the Palo Verde nuclear power plant's generat
 | Direct use (megawatthours)                                   |  1,543,990 |   20 |
 | Average retail price (cents/kWh)                             |       9.14 |   47 |
 | Data source: U.S. Energy Information Administration, Form EIA-860, *Annual Electric Generator Report*, U.S. Energy Information Administration, Form EIA-861, *Annual Electric Power Industry Report,* U.S. Energy Information Administration, Form EIA-923, *Power Plant Operations Report* and predecessor forms. |            |      |
+
+
+
+## Related
+
+- [Western Grid Overview](https://mission-city-research.github.io/energy-notes/western-grid/western-grid-overview)
+- [Home](https://mission-city-research.github.io/energy-notes/western-grid/)
