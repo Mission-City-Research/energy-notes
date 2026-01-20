@@ -8,12 +8,12 @@ Notes on the structure, constraints, and evolution of the Western U.S. grid.
 
 ## Subsections
 
-- ###### [Western Grid Overview](western-grid-overview)  
+- [Western Grid Overview](western-grid-overview)  
   
-  _High-level structure, historical data.
+  High-level structure, historical data.
   
 - [Western State Electricity Profiles](western-state-electricity-profiles)
 
-  _2024 profiles of Western States from EIA
+  2024 profiles of Western States from EIA
 
   

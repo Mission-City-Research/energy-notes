@@ -83,18 +83,8 @@ The #Western Grid has dramatically changed its  Fuel mix for electricity generat
 
 
 
-![image-20260116195434790](/Users/josephdeely/Library/Application Support/typora-user-images/image-20260116195434790.png)
-
-
-
-#### Gas Capacity
-
-#### Solar Capacity
-
-
-
 ---
 
 ## Related
-- [Western Solar Pipeline](western-solar-pipeline)
+- [Western States Electricity Profile](western-state-electricity-profile)
 - [Home](./)
