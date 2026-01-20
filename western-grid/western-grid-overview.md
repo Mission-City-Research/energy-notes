@@ -55,6 +55,32 @@ The #Western Grid has dramatically changed its  Fuel mix for electricity generat
 - Data reflects **capacity**, not annual generation.
 - Values represent **installed summer capacity (MW)**.
 
+## Western US - Solar Capacity by State (MW)
+
+| State      |       2019 |       2020 |       2021 |       2022 |       2023 |       2024 |       2025 |
+| ---------- | ---------: | ---------: | ---------: | ---------: | ---------: | ---------: | ---------: |
+| Arizona    |      1,847 |      2,144 |      2,497 |      2,711 |      3,509 |      4,755 |      6,045 |
+| California |     11,363 |     13,054 |     14,402 |     16,534 |     18,875 |     21,370 |     22,878 |
+| Colorado   |        599 |        681 |      1,065 |      1,300 |      2,187 |      2,377 |      2,791 |
+| Idaho      |        242 |        242 |        242 |        362 |        402 |        502 |        702 |
+| Montana    |         17 |         17 |         17 |         19 |        179 |        179 |        181 |
+| Nevada     |      2,153 |      2,313 |      2,925 |      3,235 |      3,854 |      5,028 |      5,223 |
+| New Mexico |        670 |        732 |        737 |        804 |      1,132 |      2,322 |      2,757 |
+| Oregon     |        398 |        574 |        729 |        794 |      1,014 |      1,054 |      1,280 |
+| Utah       |        917 |      1,196 |      1,460 |      1,541 |      1,634 |      2,197 |      2,499 |
+| Washington |         20 |         23 |         23 |        188 |        188 |        268 |        268 |
+| Wyoming    |         92 |         92 |         92 |         92 |         92 |        242 |        242 |
+| **Total**  | **18,318** | **21,068** | **24,189** | **27,580** | **33,067** | **40,295** | **44,865** |
+
+### Notes
+
+- Capacity values are **MW (installed)**.
+- 2025 data reflects **status as of November.**
+- California dominates absolute capacity, but **Arizona, Nevada, New Mexico, and Colorado** show the fastest recent growth rates.
+- Wyoming and Montana remain small but are now **actively permitting >100 MW projects**, consistent with recent pipeline activity.
+
+
+
 
 
 ![image-20260116195434790](/Users/josephdeely/Library/Application Support/typora-user-images/image-20260116195434790.png)
